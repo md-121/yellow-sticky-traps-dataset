@@ -2,7 +2,7 @@
 This dataset contains images of yellow sticky traps and bounding box annotations for three classes of flying insects found in greenhouses.
 The annotated classes are Macrolophus pygmaeus, Nesidiocoris tenuis and Trialeurodes vaporariorum (Whitefly).
 
-The dataset is based on the original version **"Raw data from Yellow Sticky Traps with insects for training of deep learning Convolutional Neural Network for object detection"** from **A.T. Nieuwenhuizen et. al.** (see [source](https://data.4tu.nl/articles/dataset/Raw_data_from_Yellow_Sticky_Traps_with_insects_for_training_of_deep_learning_Convolutional_Neural_Network_for_object_detection/12707066)).
+The dataset is based on the original version **"Raw data from Yellow Sticky Traps with insects for training of deep learning Convolutional Neural Network for object detection"** by **A.T. Nieuwenhuizen et. al.** (see [source](https://data.4tu.nl/articles/dataset/Raw_data_from_Yellow_Sticky_Traps_with_insects_for_training_of_deep_learning_Convolutional_Neural_Network_for_object_detection/12707066)).
 This version contains corrected annotations and uniform image orientations.
 
 ## Details
@@ -22,7 +22,7 @@ The annotations were improved with [LabelImg](https://github.com/tzutalin/labelI
 The labeling process was carried out to the best of our knowledge.
 
 # Credits
-This dataset was created with the help of Dr. Alexia Briassouli from the Department of Knowledge Engineering and Decision Making at Maastricht University and Carolin Vey.
+This dataset was created with the help of Carolin Vey.
 
 ## Source of original dataset
 ```
