@@ -23,16 +23,25 @@ The labeling process was carried out to the best of our knowledge.
 
 # Credits
 This dataset was created with the help of Carolin Vey.
+It was used for our paper:
+
+> M. Deserno and A. Briassouli, "Faster R-CNN and EfficientNet for Accurate Insect Identification in a Relabeled Yellow Sticky Traps Dataset," 2021 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2021, pp. 209-214, doi: 10.1109/MetroAgriFor52389.2021.9628708.
+
+```
+@INPROCEEDINGS{9628708,
+  author={Deserno, Maurice and Briassouli, Alexia},
+  booktitle={2021 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)}, 
+  title={Faster R-CNN and EfficientNet for Accurate Insect Identification in a Relabeled Yellow Sticky Traps Dataset}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={209-214},
+  doi={10.1109/MetroAgriFor52389.2021.9628708}}
+
+```
+
 
 ## Source of original dataset
-```
-"Raw data from Yellow Sticky Traps with insects for training of deep learning Convolutional Neural Network for object detection"
 
-A.T. (Ard) Nieuwenhuizen and J. (Jochen) Hemming and D. (Dirk) Janssen and H.K. (Hyun) Suh and L. (Lien) Bosmans and V. (Vincent) Sluydts and N. (Nathalie) Brenard and E. (Estefanía) Rodríguez and M.D.M. (Maria del Mar) Tellez
-
-published: March 2019
-
-DOI: 10.4121/uuid:8b8ba63a-1010-4de7-a7fb-6f9e3baf128e
-
-https://data.4tu.nl/articles/dataset/Raw_data_from_Yellow_Sticky_Traps_with_insects_for_training_of_deep_learning_Convolutional_Neural_Network_for_object_detection/12707066
-```
+> "Raw data from Yellow Sticky Traps with insects for training of deep learning Convolutional Neural Network for object detection"
+A.T. (Ard) Nieuwenhuizen and J. (Jochen) Hemming and D. (Dirk) Janssen and H.K. (Hyun) Suh and L. (Lien) Bosmans and V. (Vincent) Sluydts and N. (Nathalie) Brenard and E. (Estefanía) Rodríguez and M.D.M. (Maria del Mar) Tellez - published: March 2019 - DOI: 10.4121/uuid:8b8ba63a-1010-4de7-a7fb-6f9e3baf128e - https://data.4tu.nl/articles/dataset/Raw_data_from_Yellow_Sticky_Traps_with_insects_for_training_of_deep_learning_Convolutional_Neural_Network_for_object_detection/12707066
